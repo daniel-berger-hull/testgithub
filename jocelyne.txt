@@ -3,3 +3,5 @@ File for jocelyne
 This is a modification
 
 Change done on Jocelyne branch, and must be merged to daniel branch
+
+This is another change done from the daniel branch on the file, and has to be merged to jocelyne branch
